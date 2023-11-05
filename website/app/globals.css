@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "ubermove";
+  src: url("../public/ubermove/UberMoveBold.otf");
+  src: url("../public/ubermove/UberMoveMedium.otf");
+  font-weight: 500;
+  font-style: normal;
+}
+
+body {
+  font-family: "ubermove";
+}
