@@ -34,3 +34,6 @@ The information provided on this website is subject to change without notice. NI
 We welcome your feedback and suggestions to improve our services. Please reach out to us at tpc_feedback@nitgoa.ac.in.
 
 Thank you for visiting NIT Goa's Training and Placement Cell website. We look forward to assisting you in your journey towards a successful career!
+
+## Here's the link to our presentation:
+- https://www.canva.com/design/DAFzRtOF3Ac/ey81_z9COgBSyEtwKAbymw/edit?utm_content=DAFzRtOF3Ac&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
