@@ -10,10 +10,9 @@ We are dedicated to bridging the gap between education and industry by facilitat
 ### Services Offered:
 1. **Placement Assistance:** We connect students with top-notch companies for internships and full-time positions.
 2. **Two User Portal:** Two user dashboards- 1. For the user 2. For the admin
-3. **Calender ** Guidance on creating impressive resumes that attract potential employers.
-4. **Mock Interviews:** Practice sessions to boost confidence and interview readiness.
-5. **Industry Interaction:** Regular sessions with industry experts to keep students updated on industry trends and expectations.
-6. **Career Counselling:** Professional advice to help students make informed career choices.
+3. **Calender** Scheduling interviews and showing them in the form of a calendar
+5. **Mail reminder to students:** Reminders will be sent to the students before the interview
+6. **Updation of Marks:** Each student will get to update their cgpa and resume after each semester through a two-tier authentication process
 
 ### How to Reach Us:
 - **Location:** NIT Goa Campus, Farmagudi, Ponda, Goa, India.
